@@ -1,0 +1,1 @@
+/usr/bin/c++  -lboost_thread -lboost_system -pthread   CMakeFiles/lineedits.dir/lineedits_autogen/mocs_compilation.cpp.o CMakeFiles/lineedits.dir/main.cpp.o CMakeFiles/lineedits.dir/window.cpp.o  -o lineedits  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 
